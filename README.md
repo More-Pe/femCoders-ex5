@@ -1,23 +1,23 @@
-<p align="center"> <img alt="logo de CSS3" src="./assets/css-image.jpeg"></p>
+<p align="center"> <img alt="CSS3 logo" src="./assets/css-image.jpeg"></p>
 
 # BABY STEPS CSS3
 
-## 🏆 Objetivos
+## 🏆 Objectives
 
-- Introducir en el uso de los estilos básicos de CSS3.
+- Introduce the use of basic CSS3 styles.
 
-## 🔧 Competencias técnicas
+## 🔧 Technical Skills
 
-- Maquetación web.
+- Web layout.
 
-## 🛠️ Herramientas
+## 🛠️ Tools
 
 - Visual Studio Code
 - HTML5
 - CSS3
 
-## 🪜 Instrucciones
+## 🪜 Instructions
 
-Replica la siguiente imagen haciendo uso de HTML5 y CSS3.
+Replicate the following image using HTML5 and CSS3.
 
-<p align="center"> <img alt="imagen de ejemplo" src="./assets/example-img.png"></p>
+<p align="center"> <img alt="example image" src="./assets/example-img.png"></p>
