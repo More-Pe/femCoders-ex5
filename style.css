@@ -1,0 +1,125 @@
+body {
+	background-color: #0e0e1c;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	margin: 0;
+}
+.grid {
+	display: grid;
+	grid-template-columns: repeat(6, 3rem);
+	grid-template-rows: repeat(6, 3rem);
+	gap: 1rem;
+}
+.cell {
+	border-radius: 0.2rem;
+}
+#a1 {
+	background-color: #808cf8;
+}
+#a2 {
+	background-color: #a78cfb;
+}
+#a3 {
+	background-color: #c184fd;
+}
+#a4 {
+	background-color: #e879fa;
+}
+#a5 {
+	background-color: #f272b5;
+}
+#a6 {
+	background-color: #fd7185;
+}
+#b1 {
+	background-color: #6365ef;
+}
+#b2 {
+	background-color: #8b5cf4;
+}
+#b3 {
+	background-color: #a855f7;
+}
+#b4 {
+	background-color: #d945ee;
+}
+#b5 {
+	background-color: #ec4a97;
+}
+#b6 {
+	background-color: #f4405e;
+}
+#c1 {
+	background-color: #5045e6;
+}
+#c2 {
+	background-color: #7b3bed;
+}
+#c3 {
+	background-color: #9232e9;
+}
+#c4 {
+	background-color: #bf25d3;
+}
+#c5 {
+	background-color: #db2879;
+}
+#c6 {
+	background-color: #e01b48;
+}
+#d1 {
+	background-color: #4238c9;
+}
+#d2 {
+	background-color: #6d28d7;
+}
+#d3 {
+	background-color: #7e22cf;
+}
+#d4 {
+	background-color: #a31cb0;
+}
+#d5 {
+	background-color: #be195e;
+}
+#d6 {
+	background-color: #bd133c;
+}
+#e1 {
+	background-color: #372fa4;
+}
+#e2 {
+	background-color: #5b21b7;
+}
+#e3 {
+	background-color: #6b21aa;
+}
+#e4 {
+	background-color: #851890;
+}
+#e5 {
+	background-color: #9c154d;
+}
+#e6 {
+	background-color: #9f1339;
+}
+#f1 {
+	background-color: #2e2f81;
+}
+#f2 {
+	background-color: #4c1d96;
+}
+#f3 {
+	background-color: #591c85;
+}
+#f4 {
+	background-color: #6f1a74;
+}
+#f5 {
+	background-color: #831743;
+}
+#f6 {
+	background-color: #881338;
+}
